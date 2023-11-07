@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-
+![nft](https://github.com/DonovanWilliams0517/nft-card-component/assets/124460555/3f25d0b1-ef9d-497f-9292-fe1d922796a5)
 
 ### Links
 
